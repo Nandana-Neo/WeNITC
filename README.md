@@ -1,7 +1,7 @@
 # We@NITC
 The website is up and running. [Check out the website here](http://nandana1anand1tvm.pythonanywhere.com/)
+![image](https://github.com/user-attachments/assets/84b9b6a8-17d4-4f98-bd28-9bab5fab4f31)
 
-![image](https://github.com/user-attachments/assets/e1586807-d166-4541-bc2b-41b42f3a5526)
 
 ## Details
 The website was created using html, css(bootstrap framework) and django. 
@@ -15,14 +15,16 @@ Anyone can view the website and see all posts. However, users need to have accou
 ### 1. Register user
 - For registering, user needs to fill a form (implemented using django modelforms).
   
-  ![image](https://github.com/user-attachments/assets/b9bb8201-185c-4ad7-8af3-d691ed9967e2)
+  ![image](https://github.com/user-attachments/assets/0ee97826-8507-4b75-853a-2a08e4839f66)
+
   
   The email id should be of NITC mail id to ensure that only students of the college can access the website
   
 ### 2. Login
 - After setting the password, the user will be redirected to login page.
   
-  ![image](https://github.com/user-attachments/assets/6e0171ac-d1cf-437b-8586-a32c502fb9e5)
+  ![image](https://github.com/user-attachments/assets/34ec261c-6ca9-4361-a228-979256d4e53a)
+
   
 - Already existing users can simply login directly.
   
@@ -31,38 +33,41 @@ Anyone can view the website and see all posts. However, users need to have accou
 
 ## BLOG POSTS
 -  Any user can view everyone's posts:
-  ![image](https://github.com/user-attachments/assets/e1586807-d166-4541-bc2b-41b42f3a5526)
+  ![image](https://github.com/user-attachments/assets/e012e665-fef3-4977-a4e7-35c3632a54e7)
 
 -  But only registered users can create posts:
-  ![image](https://github.com/user-attachments/assets/ad68ca67-c85e-4727-bf3a-6a4f7cc52658)
+  ![image](https://github.com/user-attachments/assets/1f792bdb-3679-4698-862c-e1792833fd37)
 
 -  Clicking on a post's title will open up the posts detail view with option to even like a post:
-  ![image](https://github.com/user-attachments/assets/32dd7851-741d-40c7-864c-6ce345d1a441)
+  ![image](https://github.com/user-attachments/assets/acb419a0-0f0c-4c61-bb8b-627097638a4a)
 
 - Logged in users can also like the posts. 
-  ![image](https://github.com/user-attachments/assets/e9901a74-27df-487f-90b1-882ed1c859d2)
+  ![image](https://github.com/user-attachments/assets/9809c440-0000-4bf1-a639-38a4c0bb420e)
 
 - A user who is not logged in cannot like and will be asked to login to do so.
 - Also, a user cannot like their own posts.
-- Opening one's own posts will open up options to update/ delete the post and the user to choose to do either:
-  ![image](https://github.com/user-attachments/assets/1200afe0-b019-4995-a4d2-6de21fa213a9)
+- Opening one's own posts will open up options to update/ delete the post and the user can choose to do either:
+  ![image](https://github.com/user-attachments/assets/689bb3d5-b588-423e-916c-d816cf7652a6)
+
   
 ## USER Profiles
 - In the home page, if the user clicks on the username of the author of the posts OR the profile picture, then the profile of the author can be viewed.
-  ![image](https://github.com/user-attachments/assets/475cc50e-21e8-4eec-ab8f-a6d67ea564aa)
+  ![image](https://github.com/user-attachments/assets/6fa0c765-6ce3-41c0-b547-abbb905f2e6b)
 
 - While viewing one'e own profile, there will also be an option to edit the profile. The username, about fields and profile picture are set to default if the user did not provide one.
-  ![image](https://github.com/user-attachments/assets/7089a0a1-219c-42e1-905b-a9db164d6983)
+  ![image](https://github.com/user-attachments/assets/53d016c3-0952-4b3e-a9a9-4d470b7f0f27)
 
 - While updating profile pictures, the uploaded image can be previewed directly:
-  ![image](https://github.com/user-attachments/assets/824b5ce0-5c2f-4c56-abdf-e69acba089ef)
+  ![image](https://github.com/user-attachments/assets/55b2b096-fd0a-4a30-b504-96aad65efb01)
+
 
 ## Calender
 - The advanced calender feature helps in giving a quick overview about the posts on the website. 
-  ![image](https://github.com/user-attachments/assets/c5477151-b152-4582-9733-4bdd79539b0f)
+  ![image](https://github.com/user-attachments/assets/8b5c8d8c-c480-4856-956c-c5f2773d1135)
 
 - Clicking on any date will show the posts on that date
-  ![image](https://github.com/user-attachments/assets/f3f43934-582e-49ad-94ec-6e94fa73a909)
+  ![image](https://github.com/user-attachments/assets/534ba493-f41d-4814-9d00-b10fe7fa4f32)
+
 
 
 # More interesting features and updations coming soon.....
