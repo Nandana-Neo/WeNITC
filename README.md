@@ -54,7 +54,7 @@ Anyone can view the website and see all posts. However, users need to have accou
 - In the home page, if the user clicks on the username of the author of the posts OR the profile picture, then the profile of the author can be viewed.
   ![image](https://github.com/user-attachments/assets/6fa0c765-6ce3-41c0-b547-abbb905f2e6b)
 
-- While viewing one'e own profile, there will also be an option to edit the profile. The username, about fields and profile picture are set to default if the user did not provide one.
+- While viewing one'e own profile, there will also be an option to edit the profile. The Name, About fields and profile picture are set to default if the user did not provide one.
   ![image](https://github.com/user-attachments/assets/53d016c3-0952-4b3e-a9a9-4d470b7f0f27)
 
 - While updating profile pictures, the uploaded image can be previewed directly:
